@@ -30,7 +30,7 @@ public class ProductController {
 
     public ProductController() {
         _products.add(new ProductDto("Hammer", "This is a very nice hammer", 200, 1));
-        _products.add(new ProductDto("Nails", "This are nice nails", 100, 2));
+        _products.add(new ProductDto("Nails", "These are nice nails", 100, 2));
         _products.add(new ProductDto("Hard wood floor", "Oak wood flooring for a good price", 100, 4));
     }
 
