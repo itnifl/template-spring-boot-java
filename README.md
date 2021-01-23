@@ -1,5 +1,6 @@
 # Spring Boot starter for Java 11
 
+To start MYSqL in Docker:
 ## MySQL in Docker
 `application.yml` already contains connection information to this DB.
 ```shell script
